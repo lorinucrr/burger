@@ -2,9 +2,10 @@
 
 Mağazaya gitmeden daha kolay bir şekilde yemek siparişi verebilmek için geliştirilmiş bir uygulamadır 
 
-<h2> Kullanılan teknolojiler</h2>
+<h2> Kullanılan teknolojiler<h2>
 
 HTML ve CSS kullanılmıştır
 
 <h3> Ekran kaydedici</h3>
+
 ![](screen.gif)
